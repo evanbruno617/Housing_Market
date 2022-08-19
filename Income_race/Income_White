@@ -1,0 +1,282 @@
+,ID Race,Race,ID Year,Year,Household Income by Race,Household Income by Race Moe,Geography,ID Geography,Slug Geography
+41,1,White,2019,2019,117142,3608.0,"Alameda County, CA",05000US06001,alameda-county-ca
+42,1,White,2019,2019,63948,6253.0,"Butte County, CA",05000US06007,butte-county-ca
+43,1,White,2019,2019,115561,4148.0,"Contra Costa County, CA",05000US06013,contra-costa-county-ca
+44,1,White,2019,2019,86613,6292.0,"El Dorado County, CA",05000US06017,el-dorado-county-ca
+45,1,White,2019,2019,60315,2376.0,"Fresno County, CA",05000US06019,fresno-county-ca
+46,1,White,2019,2019,52639,5879.0,"Humboldt County, CA",05000US06023,humboldt-county-ca
+47,1,White,2019,2019,48119,5132.0,"Imperial County, CA",05000US06025,imperial-county-ca
+48,1,White,2019,2019,56083,3123.0,"Kern County, CA",05000US06029,kern-county-ca
+49,1,White,2019,2019,59201,5471.0,"Kings County, CA",05000US06031,kings-county-ca
+50,1,White,2019,2019,46969,5361.0,"Lake County, CA",05000US06033,lake-county-ca
+51,1,White,2019,2019,79304,1247.0,"Los Angeles County, CA",05000US06037,los-angeles-county-ca
+52,1,White,2019,2019,69395,8303.0,"Madera County, CA",05000US06039,madera-county-ca
+53,1,White,2019,2019,120828,11354.0,"Marin County, CA",05000US06041,marin-county-ca
+54,1,White,2019,2019,51525,4448.0,"Mendocino County, CA",05000US06045,mendocino-county-ca
+55,1,White,2019,2019,64797,7290.0,"Merced County, CA",05000US06047,merced-county-ca
+56,1,White,2019,2019,86268,4667.0,"Monterey County, CA",05000US06053,monterey-county-ca
+57,1,White,2019,2019,96229,8010.0,"Napa County, CA",05000US06055,napa-county-ca
+58,1,White,2019,2019,69234,7473.000000000001,"Nevada County, CA",05000US06057,nevada-county-ca
+59,1,White,2019,2019,100723,1076.0,"Orange County, CA",05000US06059,orange-county-ca
+60,1,White,2019,2019,96467,2932.0,"Placer County, CA",05000US06061,placer-county-ca
+61,1,White,2019,2019,75860,1652.0,"Riverside County, CA",05000US06065,riverside-county-ca
+62,1,White,2019,2019,76851,1956.0,"Sacramento County, CA",05000US06067,sacramento-county-ca
+63,1,White,2019,2019,69100,2888.0,"San Bernardino County, CA",05000US06071,san-bernardino-county-ca
+64,1,White,2019,2019,84468,1960.0,"San Diego County, CA",05000US06073,san-diego-county-ca
+65,1,White,2019,2019,155465,5059.0,"San Francisco County, CA",05000US06075,san-francisco-county-ca
+66,1,White,2019,2019,68634,3998.0,"San Joaquin County, CA",05000US06077,san-joaquin-county-ca
+67,1,White,2019,2019,78082,4108.0,"San Luis Obispo County, CA",05000US06079,san-luis-obispo-county-ca
+68,1,White,2019,2019,144170,8575.0,"San Mateo County, CA",05000US06081,san-mateo-county-ca
+69,1,White,2019,2019,77389,4460.0,"Santa Barbara County, CA",05000US06083,santa-barbara-county-ca
+70,1,White,2019,2019,125388,4543.0,"Santa Clara County, CA",05000US06085,santa-clara-county-ca
+71,1,White,2019,2019,95787,7473.000000000001,"Santa Cruz County, CA",05000US06087,santa-cruz-county-ca
+72,1,White,2019,2019,63415,3361.0,"Shasta County, CA",05000US06089,shasta-county-ca
+73,1,White,2019,2019,90747,3763.0,"Solano County, CA",05000US06095,solano-county-ca
+74,1,White,2019,2019,91342,3285.0,"Sonoma County, CA",05000US06097,sonoma-county-ca
+75,1,White,2019,2019,64181,3108.0,"Stanislaus County, CA",05000US06099,stanislaus-county-ca
+76,1,White,2019,2019,64535,7986.0,"Sutter County, CA",05000US06101,sutter-county-ca
+77,1,White,2019,2019,55238,12677.0,"Tehama County, CA",05000US06103,tehama-county-ca
+78,1,White,2019,2019,58244,4220.0,"Tulare County, CA",05000US06107,tulare-county-ca
+79,1,White,2019,2019,91546,2758.0,"Ventura County, CA",05000US06111,ventura-county-ca
+80,1,White,2019,2019,75378,6484.0,"Yolo County, CA",05000US06113,yolo-county-ca
+81,1,White,2019,2019,58182,4558.0,"Yuba County, CA",05000US06115,yuba-county-ca
+398,1,White,2018,2018,111420,3281.0,"Alameda County, CA",05000US06001,alameda-county-ca
+399,1,White,2018,2018,53623,5247.0,"Butte County, CA",05000US06007,butte-county-ca
+400,1,White,2018,2018,107235,3038.0,"Contra Costa County, CA",05000US06013,contra-costa-county-ca
+401,1,White,2018,2018,81059,5453.0,"El Dorado County, CA",05000US06017,el-dorado-county-ca
+402,1,White,2018,2018,54254,3042.0,"Fresno County, CA",05000US06019,fresno-county-ca
+403,1,White,2018,2018,49856,4179.0,"Humboldt County, CA",05000US06023,humboldt-county-ca
+404,1,White,2018,2018,51545,4029.0,"Imperial County, CA",05000US06025,imperial-county-ca
+405,1,White,2018,2018,53410,3255.0,"Kern County, CA",05000US06029,kern-county-ca
+406,1,White,2018,2018,63173,4926.0,"Kings County, CA",05000US06031,kings-county-ca
+407,1,White,2018,2018,51324,6018.0,"Lake County, CA",05000US06033,lake-county-ca
+408,1,White,2018,2018,75091,734.0,"Los Angeles County, CA",05000US06037,los-angeles-county-ca
+409,1,White,2018,2018,61608,5024.0,"Madera County, CA",05000US06039,madera-county-ca
+410,1,White,2018,2018,128067,7712.0,"Marin County, CA",05000US06041,marin-county-ca
+411,1,White,2018,2018,52533,6832.0,"Mendocino County, CA",05000US06045,mendocino-county-ca
+412,1,White,2018,2018,60957,5014.0,"Merced County, CA",05000US06047,merced-county-ca
+413,1,White,2018,2018,81134,5281.0,"Monterey County, CA",05000US06053,monterey-county-ca
+414,1,White,2018,2018,88452,5965.0,"Napa County, CA",05000US06055,napa-county-ca
+415,1,White,2018,2018,67284,7116.999999999999,"Nevada County, CA",05000US06057,nevada-county-ca
+416,1,White,2018,2018,93660,2253.0,"Orange County, CA",05000US06059,orange-county-ca
+417,1,White,2018,2018,86061,4781.0,"Placer County, CA",05000US06061,placer-county-ca
+418,1,White,2018,2018,71619,1525.0,"Riverside County, CA",05000US06065,riverside-county-ca
+419,1,White,2018,2018,74298,2710.0,"Sacramento County, CA",05000US06067,sacramento-county-ca
+420,1,White,2018,2018,63774,2240.0,"San Bernardino County, CA",05000US06071,san-bernardino-county-ca
+421,1,White,2018,2018,80232,1366.0,"San Diego County, CA",05000US06073,san-diego-county-ca
+422,1,White,2018,2018,149926,7646.0,"San Francisco County, CA",05000US06075,san-francisco-county-ca
+423,1,White,2018,2018,65706,3697.0,"San Joaquin County, CA",05000US06077,san-joaquin-county-ca
+424,1,White,2018,2018,71241,4123.0,"San Luis Obispo County, CA",05000US06079,san-luis-obispo-county-ca
+425,1,White,2018,2018,125437,6437.0,"San Mateo County, CA",05000US06081,san-mateo-county-ca
+426,1,White,2018,2018,79816,5369.0,"Santa Barbara County, CA",05000US06083,santa-barbara-county-ca
+427,1,White,2018,2018,122056,4286.0,"Santa Clara County, CA",05000US06085,santa-clara-county-ca
+428,1,White,2018,2018,95577,4737.0,"Santa Cruz County, CA",05000US06087,santa-cruz-county-ca
+429,1,White,2018,2018,57720,5084.0,"Shasta County, CA",05000US06089,shasta-county-ca
+430,1,White,2018,2018,89239,5074.0,"Solano County, CA",05000US06095,solano-county-ca
+431,1,White,2018,2018,83714,3036.0,"Sonoma County, CA",05000US06097,sonoma-county-ca
+432,1,White,2018,2018,60374,3302.0,"Stanislaus County, CA",05000US06099,stanislaus-county-ca
+433,1,White,2018,2018,60080,5124.0,"Sutter County, CA",05000US06101,sutter-county-ca
+434,1,White,2018,2018,50348,3121.0,"Tulare County, CA",05000US06107,tulare-county-ca
+435,1,White,2018,2018,82363,2413.0,"Ventura County, CA",05000US06111,ventura-county-ca
+436,1,White,2018,2018,70133,4992.0,"Yolo County, CA",05000US06113,yolo-county-ca
+437,1,White,2018,2018,49332,9012.0,"Yuba County, CA",05000US06115,yuba-county-ca
+757,1,White,2017,2017,102899,3324.0,"Alameda County, CA",05000US06001,alameda-county-ca
+758,1,White,2017,2017,50975,3184.0,"Butte County, CA",05000US06007,butte-county-ca
+759,1,White,2017,2017,101542,1630.0,"Contra Costa County, CA",05000US06013,contra-costa-county-ca
+760,1,White,2017,2017,78204,7706.0,"El Dorado County, CA",05000US06017,el-dorado-county-ca
+761,1,White,2017,2017,55144,2615.0,"Fresno County, CA",05000US06019,fresno-county-ca
+762,1,White,2017,2017,48482,7141.0,"Humboldt County, CA",05000US06023,humboldt-county-ca
+763,1,White,2017,2017,54720,10938.0,"Imperial County, CA",05000US06025,imperial-county-ca
+764,1,White,2017,2017,49605,2407.0,"Kern County, CA",05000US06029,kern-county-ca
+765,1,White,2017,2017,62383,4878.0,"Kings County, CA",05000US06031,kings-county-ca
+766,1,White,2017,2017,50686,3922.0,"Lake County, CA",05000US06033,lake-county-ca
+767,1,White,2017,2017,72120,786.0,"Los Angeles County, CA",05000US06037,los-angeles-county-ca
+768,1,White,2017,2017,53352,6307.0,"Madera County, CA",05000US06039,madera-county-ca
+769,1,White,2017,2017,118155,6526.0,"Marin County, CA",05000US06041,marin-county-ca
+770,1,White,2017,2017,53514,7991.0,"Mendocino County, CA",05000US06045,mendocino-county-ca
+771,1,White,2017,2017,51864,4723.0,"Merced County, CA",05000US06047,merced-county-ca
+772,1,White,2017,2017,79464,3304.0,"Monterey County, CA",05000US06053,monterey-county-ca
+773,1,White,2017,2017,89199,5356.0,"Napa County, CA",05000US06055,napa-county-ca
+774,1,White,2017,2017,63541,8446.0,"Nevada County, CA",05000US06057,nevada-county-ca
+775,1,White,2017,2017,90839,1307.0,"Orange County, CA",05000US06059,orange-county-ca
+776,1,White,2017,2017,80625,2617.0,"Placer County, CA",05000US06061,placer-county-ca
+777,1,White,2017,2017,67475,1835.0,"Riverside County, CA",05000US06065,riverside-county-ca
+778,1,White,2017,2017,69940,2330.0,"Sacramento County, CA",05000US06067,sacramento-county-ca
+779,1,White,2017,2017,62229,1522.0,"San Bernardino County, CA",05000US06071,san-bernardino-county-ca
+780,1,White,2017,2017,77484,1675.0,"San Diego County, CA",05000US06073,san-diego-county-ca
+781,1,White,2017,2017,134114,4918.0,"San Francisco County, CA",05000US06075,san-francisco-county-ca
+782,1,White,2017,2017,66634,2476.0,"San Joaquin County, CA",05000US06077,san-joaquin-county-ca
+783,1,White,2017,2017,73251,4571.0,"San Luis Obispo County, CA",05000US06079,san-luis-obispo-county-ca
+784,1,White,2017,2017,124283,4825.0,"San Mateo County, CA",05000US06081,san-mateo-county-ca
+785,1,White,2017,2017,73403,3733.0,"Santa Barbara County, CA",05000US06083,santa-barbara-county-ca
+786,1,White,2017,2017,118465,3476.0,"Santa Clara County, CA",05000US06085,santa-clara-county-ca
+787,1,White,2017,2017,85099,6570.0,"Santa Cruz County, CA",05000US06087,santa-cruz-county-ca
+788,1,White,2017,2017,52652,5095.0,"Shasta County, CA",05000US06089,shasta-county-ca
+789,1,White,2017,2017,81449,3652.0,"Solano County, CA",05000US06095,solano-county-ca
+790,1,White,2017,2017,82650,3608.0,"Sonoma County, CA",05000US06097,sonoma-county-ca
+791,1,White,2017,2017,61516,2437.0,"Stanislaus County, CA",05000US06099,stanislaus-county-ca
+792,1,White,2017,2017,52771,8939.0,"Sutter County, CA",05000US06101,sutter-county-ca
+793,1,White,2017,2017,46323,2573.0,"Tulare County, CA",05000US06107,tulare-county-ca
+794,1,White,2017,2017,82288,2100.0,"Ventura County, CA",05000US06111,ventura-county-ca
+795,1,White,2017,2017,68525,7254.000000000001,"Yolo County, CA",05000US06113,yolo-county-ca
+796,1,White,2017,2017,59841,8273.0,"Yuba County, CA",05000US06115,yuba-county-ca
+1111,1,White,2016,2016,100685,1949.0,"Alameda County, CA",05000US06001,alameda-county-ca
+1112,1,White,2016,2016,46436,4276.0,"Butte County, CA",05000US06007,butte-county-ca
+1113,1,White,2016,2016,96604,3119.0,"Contra Costa County, CA",05000US06013,contra-costa-county-ca
+1114,1,White,2016,2016,74837,5520.0,"El Dorado County, CA",05000US06017,el-dorado-county-ca
+1115,1,White,2016,2016,52442,2409.0,"Fresno County, CA",05000US06019,fresno-county-ca
+1116,1,White,2016,2016,44718,3379.0000000000005,"Humboldt County, CA",05000US06023,humboldt-county-ca
+1117,1,White,2016,2016,50055,8646.0,"Imperial County, CA",05000US06025,imperial-county-ca
+1118,1,White,2016,2016,51050,1369.0,"Kern County, CA",05000US06029,kern-county-ca
+1119,1,White,2016,2016,55715,6466.0,"Kings County, CA",05000US06031,kings-county-ca
+1120,1,White,2016,2016,47020,6023.0,"Lake County, CA",05000US06033,lake-county-ca
+1121,1,White,2016,2016,68664,1059.0,"Los Angeles County, CA",05000US06037,los-angeles-county-ca
+1122,1,White,2016,2016,56375,7986.999999999999,"Madera County, CA",05000US06039,madera-county-ca
+1123,1,White,2016,2016,116104,8511.0,"Marin County, CA",05000US06041,marin-county-ca
+1124,1,White,2016,2016,46639,4931.0,"Mendocino County, CA",05000US06045,mendocino-county-ca
+1125,1,White,2016,2016,55416,3544.9999999999995,"Merced County, CA",05000US06047,merced-county-ca
+1126,1,White,2016,2016,70061,4310.0,"Monterey County, CA",05000US06053,monterey-county-ca
+1127,1,White,2016,2016,73569,6600.0,"Napa County, CA",05000US06055,napa-county-ca
+1128,1,White,2016,2016,58234,5449.0,"Nevada County, CA",05000US06057,nevada-county-ca
+1129,1,White,2016,2016,84920,2072.0,"Orange County, CA",05000US06059,orange-county-ca
+1130,1,White,2016,2016,84871,4179.0,"Placer County, CA",05000US06061,placer-county-ca
+1131,1,White,2016,2016,61860,1441.0,"Riverside County, CA",05000US06065,riverside-county-ca
+1132,1,White,2016,2016,63582,2217.0,"Sacramento County, CA",05000US06067,sacramento-county-ca
+1133,1,White,2016,2016,58122,2030.0,"San Bernardino County, CA",05000US06071,san-bernardino-county-ca
+1134,1,White,2016,2016,72385,1318.0,"San Diego County, CA",05000US06073,san-diego-county-ca
+1135,1,White,2016,2016,126729,4985.0,"San Francisco County, CA",05000US06075,san-francisco-county-ca
+1136,1,White,2016,2016,61697,1666.0,"San Joaquin County, CA",05000US06077,san-joaquin-county-ca
+1137,1,White,2016,2016,71354,2496.0,"San Luis Obispo County, CA",05000US06079,san-luis-obispo-county-ca
+1138,1,White,2016,2016,116451,5022.0,"San Mateo County, CA",05000US06081,san-mateo-county-ca
+1139,1,White,2016,2016,70765,2511.0,"Santa Barbara County, CA",05000US06083,santa-barbara-county-ca
+1140,1,White,2016,2016,112543,3081.0,"Santa Clara County, CA",05000US06085,santa-clara-county-ca
+1141,1,White,2016,2016,80881,4897.0,"Santa Cruz County, CA",05000US06087,santa-cruz-county-ca
+1142,1,White,2016,2016,47236,3165.0,"Shasta County, CA",05000US06089,shasta-county-ca
+1143,1,White,2016,2016,76598,3583.0,"Solano County, CA",05000US06095,solano-county-ca
+1144,1,White,2016,2016,75748,2758.0,"Sonoma County, CA",05000US06097,sonoma-county-ca
+1145,1,White,2016,2016,55360,2628.0,"Stanislaus County, CA",05000US06099,stanislaus-county-ca
+1146,1,White,2016,2016,54592,5920.0,"Sutter County, CA",05000US06101,sutter-county-ca
+1147,1,White,2016,2016,47629,1966.0,"Tulare County, CA",05000US06107,tulare-county-ca
+1148,1,White,2016,2016,79290,3726.0,"Ventura County, CA",05000US06111,ventura-county-ca
+1149,1,White,2016,2016,68631,3912.0,"Yolo County, CA",05000US06113,yolo-county-ca
+1150,1,White,2016,2016,48022,5845.0,"Yuba County, CA",05000US06115,yuba-county-ca
+1462,1,White,2015,2015,91420,2303.0,"Alameda County, CA",05000US06001,alameda-county-ca
+1463,1,White,2015,2015,46000,2024.0,"Butte County, CA",05000US06007,butte-county-ca
+1464,1,White,2015,2015,90643,2773.0,"Contra Costa County, CA",05000US06013,contra-costa-county-ca
+1465,1,White,2015,2015,77282,7092.000000000001,"El Dorado County, CA",05000US06017,el-dorado-county-ca
+1466,1,White,2015,2015,50931,1617.0,"Fresno County, CA",05000US06019,fresno-county-ca
+1467,1,White,2015,2015,42820,3522.0,"Humboldt County, CA",05000US06023,humboldt-county-ca
+1468,1,White,2015,2015,42318,5374.0,"Imperial County, CA",05000US06025,imperial-county-ca
+1469,1,White,2015,2015,51589,1308.0,"Kern County, CA",05000US06029,kern-county-ca
+1470,1,White,2015,2015,47057,5246.0,"Kings County, CA",05000US06031,kings-county-ca
+1471,1,White,2015,2015,41228,6190.0,"Lake County, CA",05000US06033,lake-county-ca
+1472,1,White,2015,2015,64953,795.0,"Los Angeles County, CA",05000US06037,los-angeles-county-ca
+1473,1,White,2015,2015,47232,4791.0,"Madera County, CA",05000US06039,madera-county-ca
+1474,1,White,2015,2015,109643,4857.0,"Marin County, CA",05000US06041,marin-county-ca
+1475,1,White,2015,2015,45060,6562.0,"Mendocino County, CA",05000US06045,mendocino-county-ca
+1476,1,White,2015,2015,43246,3529.9999999999995,"Merced County, CA",05000US06047,merced-county-ca
+1477,1,White,2015,2015,62678,3148.0,"Monterey County, CA",05000US06053,monterey-county-ca
+1478,1,White,2015,2015,81502,3072.0,"Napa County, CA",05000US06055,napa-county-ca
+1479,1,White,2015,2015,54099,7881.0,"Nevada County, CA",05000US06057,nevada-county-ca
+1480,1,White,2015,2015,81375,927.0,"Orange County, CA",05000US06059,orange-county-ca
+1481,1,White,2015,2015,75535,2680.0,"Placer County, CA",05000US06061,placer-county-ca
+1482,1,White,2015,2015,60804,1061.0,"Riverside County, CA",05000US06065,riverside-county-ca
+1483,1,White,2015,2015,63307,2114.0,"Sacramento County, CA",05000US06067,sacramento-county-ca
+1484,1,White,2015,2015,54558,1884.0,"San Bernardino County, CA",05000US06071,san-bernardino-county-ca
+1485,1,White,2015,2015,68691,1956.0,"San Diego County, CA",05000US06073,san-diego-county-ca
+1486,1,White,2015,2015,112515,6886.0,"San Francisco County, CA",05000US06075,san-francisco-county-ca
+1487,1,White,2015,2015,54675,2683.0,"San Joaquin County, CA",05000US06077,san-joaquin-county-ca
+1488,1,White,2015,2015,65035,4707.0,"San Luis Obispo County, CA",05000US06079,san-luis-obispo-county-ca
+1489,1,White,2015,2015,106135,5221.0,"San Mateo County, CA",05000US06081,san-mateo-county-ca
+1490,1,White,2015,2015,66592,3421.0,"Santa Barbara County, CA",05000US06083,santa-barbara-county-ca
+1491,1,White,2015,2015,102552,3273.0,"Santa Clara County, CA",05000US06085,santa-clara-county-ca
+1492,1,White,2015,2015,68542,4468.0,"Santa Cruz County, CA",05000US06087,santa-cruz-county-ca
+1493,1,White,2015,2015,47097,4257.0,"Shasta County, CA",05000US06089,shasta-county-ca
+1494,1,White,2015,2015,70748,3936.000000000001,"Solano County, CA",05000US06095,solano-county-ca
+1495,1,White,2015,2015,69694,3078.0,"Sonoma County, CA",05000US06097,sonoma-county-ca
+1496,1,White,2015,2015,53733,3949.0,"Stanislaus County, CA",05000US06099,stanislaus-county-ca
+1497,1,White,2015,2015,51261,6656.0,"Sutter County, CA",05000US06101,sutter-county-ca
+1498,1,White,2015,2015,42627,2982.0,"Tulare County, CA",05000US06107,tulare-county-ca
+1499,1,White,2015,2015,78569,2828.0,"Ventura County, CA",05000US06111,ventura-county-ca
+1500,1,White,2015,2015,61525,4487.0,"Yolo County, CA",05000US06113,yolo-county-ca
+1501,1,White,2015,2015,51029,4374.0,"Yuba County, CA",05000US06115,yuba-county-ca
+1819,1,White,2014,2014,84112,3372.0,"Alameda County, CA",05000US06001,alameda-county-ca
+1820,1,White,2014,2014,44163,3292.0,"Butte County, CA",05000US06007,butte-county-ca
+1821,1,White,2014,2014,85314,2572.0,"Contra Costa County, CA",05000US06013,contra-costa-county-ca
+1822,1,White,2014,2014,70595,6390.0,"El Dorado County, CA",05000US06017,el-dorado-county-ca
+1823,1,White,2014,2014,47992,1803.0,"Fresno County, CA",05000US06019,fresno-county-ca
+1824,1,White,2014,2014,42883,2529.0,"Humboldt County, CA",05000US06023,humboldt-county-ca
+1825,1,White,2014,2014,41907,5570.0,"Imperial County, CA",05000US06025,imperial-county-ca
+1826,1,White,2014,2014,48420,3302.0,"Kern County, CA",05000US06029,kern-county-ca
+1827,1,White,2014,2014,45633,5420.0,"Kings County, CA",05000US06031,kings-county-ca
+1828,1,White,2014,2014,36020,4416.0,"Lake County, CA",05000US06033,lake-county-ca
+1829,1,White,2014,2014,61386,750.0,"Los Angeles County, CA",05000US06037,los-angeles-county-ca
+1830,1,White,2014,2014,42517,4159.0,"Madera County, CA",05000US06039,madera-county-ca
+1831,1,White,2014,2014,101468,5514.0,"Marin County, CA",05000US06041,marin-county-ca
+1832,1,White,2014,2014,43023,4137.0,"Mendocino County, CA",05000US06045,mendocino-county-ca
+1833,1,White,2014,2014,49684,4118.0,"Merced County, CA",05000US06047,merced-county-ca
+1834,1,White,2014,2014,56953,2852.0,"Monterey County, CA",05000US06053,monterey-county-ca
+1835,1,White,2014,2014,72254,6891.0,"Napa County, CA",05000US06055,napa-county-ca
+1836,1,White,2014,2014,60062,6984.0,"Nevada County, CA",05000US06057,nevada-county-ca
+1837,1,White,2014,2014,80187,1478.0,"Orange County, CA",05000US06059,orange-county-ca
+1838,1,White,2014,2014,75511,2917.0,"Placer County, CA",05000US06061,placer-county-ca
+1839,1,White,2014,2014,58621,1180.0,"Riverside County, CA",05000US06065,riverside-county-ca
+1840,1,White,2014,2014,60107,1375.0,"Sacramento County, CA",05000US06067,sacramento-county-ca
+1841,1,White,2014,2014,53371,1888.0,"San Bernardino County, CA",05000US06071,san-bernardino-county-ca
+1842,1,White,2014,2014,67379,1475.0,"San Diego County, CA",05000US06073,san-diego-county-ca
+1843,1,White,2014,2014,101276,2381.0,"San Francisco County, CA",05000US06075,san-francisco-county-ca
+1844,1,White,2014,2014,57016,2551.0,"San Joaquin County, CA",05000US06077,san-joaquin-county-ca
+1845,1,White,2014,2014,64413,3980.0,"San Luis Obispo County, CA",05000US06079,san-luis-obispo-county-ca
+1846,1,White,2014,2014,102766,3265.0,"San Mateo County, CA",05000US06081,san-mateo-county-ca
+1847,1,White,2014,2014,66256,3600.0,"Santa Barbara County, CA",05000US06083,santa-barbara-county-ca
+1848,1,White,2014,2014,95557,3250.0,"Santa Clara County, CA",05000US06085,santa-clara-county-ca
+1849,1,White,2014,2014,68183,6267.0,"Santa Cruz County, CA",05000US06087,santa-cruz-county-ca
+1850,1,White,2014,2014,44457,2542.0,"Shasta County, CA",05000US06089,shasta-county-ca
+1851,1,White,2014,2014,72418,3318.0,"Solano County, CA",05000US06095,solano-county-ca
+1852,1,White,2014,2014,72117,2958.0,"Sonoma County, CA",05000US06097,sonoma-county-ca
+1853,1,White,2014,2014,52022,1713.0,"Stanislaus County, CA",05000US06099,stanislaus-county-ca
+1854,1,White,2014,2014,55167,4715.0,"Sutter County, CA",05000US06101,sutter-county-ca
+1855,1,White,2014,2014,43179,2231.0,"Tulare County, CA",05000US06107,tulare-county-ca
+1856,1,White,2014,2014,74791,2538.0,"Ventura County, CA",05000US06111,ventura-county-ca
+1857,1,White,2014,2014,60172,5928.0,"Yolo County, CA",05000US06113,yolo-county-ca
+1858,1,White,2014,2014,44579,4293.0,"Yuba County, CA",05000US06115,yuba-county-ca
+2177,1,White,2013,2013,78131,2174.0,"Alameda County, CA",05000US06001,alameda-county-ca
+2178,1,White,2013,2013,44149,2752.0,"Butte County, CA",05000US06007,butte-county-ca
+2179,1,White,2013,2013,84320,2993.0,"Contra Costa County, CA",05000US06013,contra-costa-county-ca
+2180,1,White,2013,2013,61707,5324.0,"El Dorado County, CA",05000US06017,el-dorado-county-ca
+2181,1,White,2013,2013,49637,1690.0,"Fresno County, CA",05000US06019,fresno-county-ca
+2182,1,White,2013,2013,44714,6103.0,"Humboldt County, CA",05000US06023,humboldt-county-ca
+2183,1,White,2013,2013,46225,7365.0,"Imperial County, CA",05000US06025,imperial-county-ca
+2184,1,White,2013,2013,48545,2622.0,"Kern County, CA",05000US06029,kern-county-ca
+2185,1,White,2013,2013,48170,4276.0,"Kings County, CA",05000US06031,kings-county-ca
+2186,1,White,2013,2013,37820,13183.0,"Lake County, CA",05000US06033,lake-county-ca
+2187,1,White,2013,2013,60751,630.0,"Los Angeles County, CA",05000US06037,los-angeles-county-ca
+2188,1,White,2013,2013,39805,3531.0000000000005,"Madera County, CA",05000US06039,madera-county-ca
+2189,1,White,2013,2013,103847,6188.0,"Marin County, CA",05000US06041,marin-county-ca
+2190,1,White,2013,2013,42803,4017.000000000001,"Mendocino County, CA",05000US06045,mendocino-county-ca
+2191,1,White,2013,2013,42123,2381.0,"Merced County, CA",05000US06047,merced-county-ca
+2192,1,White,2013,2013,56168,4255.0,"Monterey County, CA",05000US06053,monterey-county-ca
+2193,1,White,2013,2013,72347,5528.0,"Napa County, CA",05000US06055,napa-county-ca
+2194,1,White,2013,2013,53824,4936.0,"Nevada County, CA",05000US06057,nevada-county-ca
+2195,1,White,2013,2013,78408,1688.0,"Orange County, CA",05000US06059,orange-county-ca
+2196,1,White,2013,2013,73122,2880.0,"Placer County, CA",05000US06061,placer-county-ca
+2197,1,White,2013,2013,56222,1291.0,"Riverside County, CA",05000US06065,riverside-county-ca
+2198,1,White,2013,2013,56684,1556.0,"Sacramento County, CA",05000US06067,sacramento-county-ca
+2199,1,White,2013,2013,54139,1808.0,"San Bernardino County, CA",05000US06071,san-bernardino-county-ca
+2200,1,White,2013,2013,62230,1052.0,"San Diego County, CA",05000US06073,san-diego-county-ca
+2201,1,White,2013,2013,98289,3816.0,"San Francisco County, CA",05000US06075,san-francisco-county-ca
+2202,1,White,2013,2013,55190,2847.0,"San Joaquin County, CA",05000US06077,san-joaquin-county-ca
+2203,1,White,2013,2013,58738,2587.0,"San Luis Obispo County, CA",05000US06079,san-luis-obispo-county-ca
+2204,1,White,2013,2013,95271,4340.0,"San Mateo County, CA",05000US06081,san-mateo-county-ca
+2205,1,White,2013,2013,68470,5336.0,"Santa Barbara County, CA",05000US06083,santa-barbara-county-ca
+2206,1,White,2013,2013,90763,1948.0,"Santa Clara County, CA",05000US06085,santa-clara-county-ca
+2207,1,White,2013,2013,68928,6423.0,"Santa Cruz County, CA",05000US06087,santa-cruz-county-ca
+2208,1,White,2013,2013,41736,2316.0,"Shasta County, CA",05000US06089,shasta-county-ca
+2209,1,White,2013,2013,67121,4457.0,"Solano County, CA",05000US06095,solano-county-ca
+2210,1,White,2013,2013,62165,1944.0,"Sonoma County, CA",05000US06097,sonoma-county-ca
+2211,1,White,2013,2013,51340,2335.0,"Stanislaus County, CA",05000US06099,stanislaus-county-ca
+2212,1,White,2013,2013,52178,5471.0,"Sutter County, CA",05000US06101,sutter-county-ca
+2213,1,White,2013,2013,40381,2059.0,"Tulare County, CA",05000US06107,tulare-county-ca
+2214,1,White,2013,2013,75715,2165.0,"Ventura County, CA",05000US06111,ventura-county-ca
+2215,1,White,2013,2013,59993,5241.0,"Yolo County, CA",05000US06113,yolo-county-ca
+2216,1,White,2013,2013,48585,6710.0,"Yuba County, CA",05000US06115,yuba-county-ca
