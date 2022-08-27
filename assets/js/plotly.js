@@ -423,39 +423,39 @@ function handleClick(countyInput) {
   }
 
   if (countyInput === "San Bernardino County"){
-    CountyExtract = MaderaCounty
+    CountyExtract = SanBernardinoCounty
   }
 
   if (countyInput === "San Diego County"){
-    CountyExtract = MarinCounty
+    CountyExtract = SanDiegoCounty
   }
 
   if (countyInput === "San Francisco County"){
-    CountyExtract = MariposaCounty
+    CountyExtract = SanFranciscoCounty
   }
 
   if (countyInput === "San Joaquin County"){
-    CountyExtract = MendocinoCounty
+    CountyExtract = SanJoaquinCounty
   }
 
   if (countyInput === "San Luis Obispo County"){
-    CountyExtract = MercedCounty
+    CountyExtract = SanLuisObispoCounty
   }
 
   if (countyInput === "San Mateo County"){
-    CountyExtract = ModocCounty
+    CountyExtract = SanMateoCounty
   }
 
   if (countyInput === "Santa Barbara County"){
-    CountyExtract = MonoCounty
+    CountyExtract = SantaBarbaraCounty
   }
 
   if (countyInput === "Santa Clara County"){
-    CountyExtract = MontereyCounty
+    CountyExtract = SantaClaraCounty
   }
 
   if (countyInput === "Santa Cruz County"){
-    CountyExtract = NapaCounty
+    CountyExtract = SantaCruzCounty
   }
 
   if (countyInput === "Shasta County"){
