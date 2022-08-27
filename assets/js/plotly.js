@@ -423,7 +423,7 @@ function handleClick(countyInput) {
   }
 
   if (countyInput === "San Bernardino County"){
-    CountyExtract = SanBernardinoCounty
+    CountyExtract = SanBernadinoCounty
   }
 
   if (countyInput === "San Diego County"){
@@ -431,7 +431,7 @@ function handleClick(countyInput) {
   }
 
   if (countyInput === "San Francisco County"){
-    CountyExtract = SanFranciscoCounty
+    CountyExtract = SanFrancisco
   }
 
   if (countyInput === "San Joaquin County"){
